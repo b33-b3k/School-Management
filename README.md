@@ -50,7 +50,7 @@ The app's data is managed and stored in a secure and scalable database (database
 - **Achievement Setter:** Record student achievements.
 - **Student and Teacher Adder:** Admin can add new students and teachers to the system.
 
-### GLOBAS (Global Observations and Announcements) 🌍:
+### Global 🌍:
 - **Event Announcements:** School-wide event announcements.
 - **Calendar:** School-wide academic calendar.
 - **Library:** Central library details.
